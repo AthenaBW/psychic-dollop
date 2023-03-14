@@ -1,2 +1,1 @@
-# psychic-dollop
-password generator
+# Password Generator Starter Code
